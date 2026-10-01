@@ -7,7 +7,7 @@ authors:
     given-names: "Craig"
 version: "0.1"
 date-released: "2026-10-01"
-license: "CC-BY-ND-4.0"
+license: "CC-BY-4.0"
 repository-code: "https://github.com/proofprotocol/PP-SPEC-035-orchideas-mapping"
 abstract: "A Proof Protocol mapping specification connecting ORCHIDEAS threat and behavior context to independently generated evidence, efficacy measurements, and proof artifacts."
 keywords:
