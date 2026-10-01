@@ -5,7 +5,7 @@
 | Status | DRAFT v0.1 |
 | Author | Craig Ellrod, Nebulonium, Inc. (dba HACKERverse®) |
 | Date | October 1, 2026 |
-| License | CC BY-ND 4.0 |
+| License | CC BY 4.0 |
 | Maps to | ORCHIDEAS secure-by-construction design framework for Agentic AI |
 | Series | Proof Protocol Framework Mapping Specifications |
 
@@ -121,7 +121,7 @@ No affiliation, endorsement, certification, or sponsorship by the maintainers of
 
 **Use in this mapping.** The ideas and framework name can be referenced and attributed, but the article text, diagrams, tables, and expressive descriptions should not be copied. The Proof Protocol mapping should remain independently authored.
 
-This license determination applies to the referenced upstream material, not to this Proof Protocol mapping specification. This mapping remains licensed under **CC BY-ND 4.0** as stated above. Framework names and trademarks remain the property of their respective owners. This section is a practical licensing assessment, not legal advice.
+This license determination applies to the referenced upstream material, not to this Proof Protocol mapping specification. This mapping remains licensed under **CC BY 4.0** as stated above. Framework names and trademarks remain the property of their respective owners. This section is a practical licensing assessment, not legal advice.
 
 ## 10. References
 
@@ -135,4 +135,4 @@ Each release SHOULD be anchored with a dated identifier and, where available, a 
 
 ---
 
-*Proof Protocol · proofprotocol.io · CC BY-ND 4.0*
+*Proof Protocol · proofprotocol.io · CC BY 4.0*
