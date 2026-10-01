@@ -2,7 +2,7 @@
 
 **Status:** DRAFT v0.1  
 **Author:** Craig Ellrod / Nebulonium, Inc. / HACKERverse®  
-**License:** CC BY-ND 4.0
+**License:** CC BY 4.0
 
 **Normative specification:** [`PP-SPEC-035-ORCHIDEAS-Mapping.md`](./PP-SPEC-035-ORCHIDEAS-Mapping.md)
 
