@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-035: Proof of Efficacy Mapping to ORCHIDEAS"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-01"
+license: "CC-BY-ND-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-035-orchideas-mapping"
+abstract: "A Proof Protocol mapping specification connecting ORCHIDEAS threat and behavior context to independently generated evidence, efficacy measurements, and proof artifacts."
+keywords:
+  - Proof Protocol
+  - Proof of Efficacy
+  - ORCHIDEAS
+  - agentic AI
+  - cybersecurity
+  - evidence
+  - efficacy
+  - proof
