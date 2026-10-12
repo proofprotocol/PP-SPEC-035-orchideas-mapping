@@ -121,7 +121,7 @@ No affiliation, endorsement, certification, or sponsorship by the maintainers of
 
 **Use in this mapping.** The ideas and framework name can be referenced and attributed, but the article text, diagrams, tables, and expressive descriptions should not be copied. The Proof Protocol mapping should remain independently authored.
 
-This license determination applies to the referenced upstream material, not to this Proof Protocol mapping specification. This mapping remains Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This license determination applies to the referenced upstream material, not to this Proof Protocol mapping specification. This mapping remains Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ## 10. References
 
